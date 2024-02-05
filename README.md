@@ -1,7 +1,9 @@
 # GameHub 
 # [Live](https://game-hub-seven-bice.vercel.app/)
+## GameHub
 GameHub is an exciting video game discovery web app built with React, JavaScript, TypeScript, and Vite. Its purpose is to help you discover new and captivating games to play. With GameHub, you can search for games based on platform, genre, and more. Let’s dive into the details:
 
+# Features
 Platform: GameHub allows you to explore games across different platforms, making it easier to find games compatible with your preferred gaming system.
 Genre: Whether you’re into action, adventure, strategy, or simulation games, GameHub lets you filter games by genre, ensuring you discover titles that match your interests.
 Getting Started
