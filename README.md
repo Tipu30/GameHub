@@ -1,6 +1,6 @@
 # GameHub 
 # [Live](https://game-hub-seven-bice.vercel.app/)
-**![Screenshot 2024-02-05 204618](https://github.com/Tipu30/GameHub/assets/92074859/c65542d6-5474-41eb-8c8b-64cf91db58e5)**
+**<img src="https://github.com/Tipu30/GameHub/assets/92074859/c65542d6-5474-41eb-8c8b-64cf91db58e5" alt="Screenshot 2024-02-05 204618" width="25%">**
 GameHub is an exciting video game discovery web app built with **React, JavaScript, TypeScript, and Vite**. Its purpose is to help you discover new and captivating games to play. With GameHub, you can search for games based on **platform, genre, and more**. Let’s dive into the details:
 
 # Features
